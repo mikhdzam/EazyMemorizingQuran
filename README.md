@@ -1,3 +1,3 @@
-# eazymemorizingquran
+# EazyMemorizingQuran
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/eazymemorizingquran)
+A tool to memorize Qur'an.
